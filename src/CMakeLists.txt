@@ -16,3 +16,5 @@ add_subdirectory(09_Separate)
 add_subdirectory(10_Separate2)
 add_subdirectory(11_Outer)
 add_subdirectory(12_StaticMember)
+add_subdirectory(13_MyArray)
+
