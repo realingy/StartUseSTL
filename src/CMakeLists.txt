@@ -8,3 +8,5 @@ project(StartUseSTL)
 add_subdirectory(01_StartUseSTL)
 add_subdirectory(02_FunctionTemplate)
 add_subdirectory(03_Compilation)
+add_subdirectory(04_Sort)
+

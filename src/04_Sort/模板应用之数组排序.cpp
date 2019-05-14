@@ -7,7 +7,7 @@ void Sort(T *arr, int len)
 {
 	for(int i = 0; i < len; i++) {
 		for(int j = i; j < len; j++) {
-			if(arr[i] < arr[j]) {
+			if(arr[i] > arr[j]) {
 				T temp = arr[i];
 				arr[i] = arr[j];
 				arr[j] = temp;
