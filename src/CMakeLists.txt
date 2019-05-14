@@ -11,4 +11,5 @@ add_subdirectory(03_Compilation)
 add_subdirectory(04_Sort)
 add_subdirectory(05_Materialization)
 add_subdirectory(07_ClassTemplate)
+add_subdirectory(08_ClassTemplateDerive)
 
