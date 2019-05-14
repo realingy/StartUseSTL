@@ -12,4 +12,4 @@ add_subdirectory(04_Sort)
 add_subdirectory(05_Materialization)
 add_subdirectory(07_ClassTemplate)
 add_subdirectory(08_ClassTemplateDerive)
-
+add_subdirectory(09_Separate)
