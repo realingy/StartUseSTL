@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 //static_cast:一般的转换
 //dynamic_cast:适用于父子类之间的转换
 //const_cast:主要针对const的转换
@@ -90,7 +89,6 @@ void Test4()
 
 	int *p3 = NULL;
 	const int *p4 = const_cast<const int *>(p3); //非const转const，正确
-
 }
 
 //4.reinterpret_cast 任意转换
@@ -118,7 +116,6 @@ int main()
 	//Test3();
 	//Test4();
 	Test5();
-
 
 	system("pause");
 	return 0;
